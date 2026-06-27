@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "latexdo-cloud",
+  "name": "editor-latexdo-org",
   "main": "src/worker.ts",
   "compatibility_date": "2026-06-27",
   "assets": {
